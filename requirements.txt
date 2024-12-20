@@ -1,0 +1,20 @@
+# Core Libraries
+numpy==1.21.6
+pandas==1.3.5
+
+# Deep Learning Framework
+tensorflow==2.9.0
+
+# Image Processing
+opencv-python==4.6.0.66
+
+# Visualization
+matplotlib==3.5.2
+seaborn==0.11.2
+
+# Web Application (if using Flask)
+Flask==2.1.3
+Flask-WTF==1.0.1
+
+# For Logging and Monitoring
+tensorboard==2.9.0
